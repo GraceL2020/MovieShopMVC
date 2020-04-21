@@ -1,0 +1,12 @@
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.dll
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.pdb
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.dll
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.pdb
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\MovieShop.Entities.dll.config
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.csproj.CopyComplete
+C:\Users\Grace\source\repos\VsProject\MovieShop.MVC\MovieShop.Entities\obj\Debug\MovieShop.Entities.csprojAssemblyReference.cache
