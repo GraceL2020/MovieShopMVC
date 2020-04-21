@@ -93,8 +93,12 @@ namespace MovieShop.UnitTest
             //Assert
             //can do multiple asserts in one unit test method
             Assert.IsNotNull(movie);
+
             Assert.IsNotNull(movie.Title);
+            Assert.AreEqual("TestMovie3", movie.Title);
+
             Assert.IsNotNull(movie.Id);
+            Assert.AreEqual(3, movie.Id);
 
         }
     }
